@@ -30,7 +30,7 @@ This app responds to customer queries, understands context, and behaves like a r
 ---
 
 ## 🖼️ Demo Screenshot
-![App Screenshot](C:Users/harsh/Pictures/Screenshots 1/Screenshot 2025-11-13 235424.png)
+![App Screenshot](Screenshot 2025-11-13 235424.png)
 
 ---
 
