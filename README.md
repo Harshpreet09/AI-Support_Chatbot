@@ -30,7 +30,7 @@ This app responds to customer queries, understands context, and behaves like a r
 ---
 
 ## 🖼️ Demo Screenshot
-![App Screenshot](Screenshot 2025-11-13 235424.png)
+![App Screenshot](https://github.com/Harshpreet09/AI-Support_Chatbot/blob/main/Screenshot%202025-11-13%20235424.png)
 
 ---
 
