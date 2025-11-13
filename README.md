@@ -58,18 +58,18 @@ project/
 
 ## ⚙️ Installation
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
 ---
 
 ## 🔐 Environment Variables
 
-# Create a .env file in the root directory
+## Create a .env file in the root directory
 GOOGLE_API_KEY=your_google_api_key_here
 COMPANY_NAME=YourCompanyName
 SUPPORT_EMAIL=support@yourcompany.com
@@ -78,10 +78,10 @@ SUPPORT_EMAIL=support@yourcompany.com
 
 ## ▶️ How to Run
 
-# Start the Streamlit app
+## Start the Streamlit app
 streamlit run app.py
 
-# Open in browser:
+## Open in browser:
 http://localhost:8501
 
 ---
@@ -126,5 +126,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👨‍💻 Author
-**Harshpreet Singh**  
+**Harsh Preet Singh**  
 Developer & Creator
