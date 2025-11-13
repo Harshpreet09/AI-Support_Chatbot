@@ -30,8 +30,7 @@ This app responds to customer queries, understands context, and behaves like a r
 ---
 
 ## 🖼️ Demo Screenshot
-Upload your screenshot and update this line:
-(C:\Users\harsh\Pictures\Screenshots 1\Screenshot 2025-11-13 235424.png)
+![App Screenshot](C:Users/harsh/Pictures/Screenshots 1/Screenshot 2025-11-13 235424.png)
 
 ---
 
@@ -45,12 +44,15 @@ Upload your screenshot and update this line:
 ---
 
 ## 📂 Project Structure
+```
 project/
 │
 ├── app.py                # Main Streamlit application
 ├── .env                  # Environment variables
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
+```
+
 
 ---
 
